@@ -1,10 +1,9 @@
 import pickle
 import athletelist
-
 def put_to_store(file_list):
     all_athlete = []
     for each_file in file_list:
-        ath = get_coach_data(each_file)
+        ath = athletelist.get_coach_data(each_file)
         all_athlete[ath.name] = ath
     try:
         with open('athletes.pickle','wb') as athf:
