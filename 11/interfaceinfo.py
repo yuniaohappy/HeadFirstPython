@@ -16,6 +16,15 @@
     15、负责人
     16、备注
 """
+#定义接口类用于存放属性信息
 class InterfaceInfo():
+    #初始化类实例
     def __init__(self,):
         pass
+    #将数据写入文件
+    def write_info(self):
+        try:
+            with open("interface_res.csv","w") as wf:
+                wf.write("")
+        except:
+            pass
