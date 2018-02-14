@@ -46,7 +46,7 @@ class InterfaceInfo:
     # 将数据写入文件
     def write_info(self):
         try:
-            with open("interface_res.csv", "wa+") as wf:
+            with open("interface_res.csv", "a") as wf:
                 wf.write(self.system_name + "," +
                          self.sub_system_code + "," +
                          self.interface_name + "," +

@@ -1,3 +1,5 @@
+#!/usr/bin/env python2.7
+# _*_ coding:utf-8 _*_
 import os
 from interfaceinfo import InterfaceInfo as info
 #过滤sql文件中的表名
