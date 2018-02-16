@@ -2,7 +2,14 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
