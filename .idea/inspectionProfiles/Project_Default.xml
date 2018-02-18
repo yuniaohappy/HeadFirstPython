@@ -6,6 +6,7 @@
         <list>
           <option value="athletelist" />
           <option value="pickle" />
+          <option value="yate.string" />
         </list>
       </option>
     </inspection_tool>
